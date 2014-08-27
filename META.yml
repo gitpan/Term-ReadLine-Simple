@@ -1,0 +1,34 @@
+---
+abstract: 'This module is now called Term::ReadLine::Simple.'
+author:
+  - 'Matthaeus Kiem <cuer2s@gmail.com>'
+build_requires:
+  Expect: '0'
+  Test::Fatal: '0'
+  Test::More: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142060'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Term-ReadLine-Simple
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Carp: '0'
+  Encode: '0'
+  Encode::Locale: '0'
+  Exporter: '0'
+  Term::ReadKey: '0'
+  Unicode::GCString: '0'
+  perl: '5.008000'
+  strict: '0'
+  warnings: '0'
+resources:
+  repository: https://github.com/kuerbis/Term-ReadLine::Simple.git
+version: '0.011'
