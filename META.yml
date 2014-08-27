@@ -1,5 +1,5 @@
 ---
-abstract: 'This module is now called Term::ReadLine::Simple.'
+abstract: 'Read a line from STDIN.'
 author:
   - 'Matthaeus Kiem <cuer2s@gmail.com>'
 build_requires:
@@ -31,4 +31,4 @@ requires:
   warnings: '0'
 resources:
   repository: https://github.com/kuerbis/Term-ReadLine::Simple.git
-version: '0.011'
+version: '0.012'
